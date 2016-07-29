@@ -6,9 +6,10 @@ color:
   saturation: 0.8115163722541183
   rhythmicContrast: 0.6061158364173025
   brandColors:
-    - '#F7C62C'
-    - '#000000'
-    - '#49A844'
-    - '#DE1207'
-    - '#1959BA'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: HoneyChrome Art
+title: HoneyChrome Art
